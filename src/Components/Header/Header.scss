@@ -1,0 +1,6 @@
+.header { display: flex; justify-content: space-between; background: linear-gradient(to right, rgb(0 0 0), #6f6b68); border-radius: 0 0 5px5px; align-items: center; z-index: 100; position: fixed; width: 100vw;
+	.logo { 
+		.logoimg { height: 80px; }
+	}
+	.Webname { font-size: 34px; color: #cab2b2; padding-right: 20px; margin: 0; }
+}

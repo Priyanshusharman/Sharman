@@ -1,0 +1,6 @@
+//component
+@import './Components/Header/Header.scss';
+//pages
+@import './Pages/Dashboard/Dashboard.scss';
+
+body { background: linear-gradient(to right, #f5f4f4, #dcdcdc); min-height: 100vh; margin: 0; padding: 0; box-shadow: 2px -10px 20px 10px #e0dacb;; }
